@@ -1,0 +1,398 @@
+[
+  {
+    "slug": "dunkin",
+    "name": "Dunkin’ self-ordering",
+    "category": "ux",
+    "label": "UI design · Service concept",
+    "headline": "A coffee order, comfortably within reach.",
+    "description": "A tabletop ordering concept connecting the physical dining experience with a clear digital flow.",
+    "cover": "dunkin",
+    "role": "Interface design",
+    "scope": "Tabletop interaction, menu, order summary, payment",
+    "type": "Concept project",
+    "sections": [
+      [
+        "The idea",
+        "Order from your seat",
+        "A self-ordering tablet positioned at the table lets customers place an order without leaving their seats. The concept considers both screen navigation and the physical position of the device.",
+        ""
+      ],
+      [
+        "Physical touchpoints",
+        "An interface that meets the customer",
+        "The proposed tablet adjusts to a comfortable angle when a button is pressed and rotates to serve people across the table. The physical interaction is part of the service concept, rather than a built or validated hardware product.",
+        "dunkin"
+      ],
+      [
+        "Interface flow",
+        "From browsing to confirmation",
+        "The screens connect a welcome page, product categories, a menu, an order summary, payment selection, and a successful-order confirmation. Orange and pink carry the brand’s familiar visual character through the journey.",
+        "dunkin-menu"
+      ],
+      [
+        "Completing the journey",
+        "A clear finish to the order",
+        "The payment screen presents the available methods, followed by an order confirmation. These final touchpoints help communicate what happens next after a customer has selected their items.",
+        "dunkin-payment"
+      ]
+    ],
+    "outcome": "A connected set of interface concepts for tabletop ordering. The portfolio documents the proposed device interaction and screen flow; it does not report a deployed system or measured usability results."
+  },
+  {
+    "slug": "packaging",
+    "name": "Divine Dried Delicacies",
+    "category": "brand",
+    "label": "Packaging · Structural design",
+    "headline": "A gift box with a second life.",
+    "description": "Four fold-out compartments turn a compact dry-fruit gift box into a serving tray.",
+    "cover": "packaging",
+    "role": "Packaging design",
+    "scope": "Research, structure, dielines, prototypes, visual design",
+    "type": "Packaging project",
+    "sections": [
+      [
+        "The brief",
+        "Make gifting useful beyond the moment",
+        "The aim was to create a multifunctional gift box that also works as a display tray. The design brings together presentation, portability, and the practical experience of serving dry fruits.",
+        ""
+      ],
+      [
+        "Research & development",
+        "Designing the opening experience",
+        "Research looked at premium dried-fruit brands, luxury gifting, and modular packaging. Four compartments fold outward for serving and return inward to make a compact box. An integrated handle supports carrying.",
+        "packaging-open"
+      ],
+      [
+        "Prototyping",
+        "Testing how the structure comes together",
+        "The project used paperboard for a lightweight but sturdy structure. Dielines and physical iterations explored the folding mechanism and compartment stability. Purple and gold motifs gave the packaging a celebratory identity.",
+        "packaging-process"
+      ]
+    ],
+    "outcome": "One package, two functions: the four-compartment gift box opens into a serving tray and folds back for storage. Dielines and physical prototypes demonstrate the transformation and the integrated carrying handle. This changes the package’s intended use beyond gifting; durability, waste reduction, and user satisfaction were not measured.",
+    "outcome_heading": "From gift box to a reusable serving format."
+  },
+  {
+    "slug": "eclectics",
+    "name": "Eclectics magazine",
+    "category": "editorial",
+    "label": "Editorial · Magazine design",
+    "headline": "Giving fashion a rhythm on the page.",
+    "description": "A fashion magazine exploration balancing photography, expressive headlines, and a three-column grid.",
+    "cover": "eclectics",
+    "role": "Publication & layout design",
+    "scope": "Cover, grid, typography, editorial spreads",
+    "type": "Editorial project",
+    "sections": [
+      [
+        "The approach",
+        "A grid with room for expression",
+        "The magazine uses a three-column grid as the primary organizing structure. Within it, larger photographs, headlines, and smaller reading blocks create different levels of visual emphasis.",
+        ""
+      ],
+      [
+        "The spreads",
+        "Pacing a visual story",
+        "The sequence moves between image-led layouts and denser editorial pages. The project explores how alignment, scale, and color can hold varied fashion content together.",
+        "eclectics-spreads"
+      ]
+    ],
+    "outcome": "A magazine cover and collection of editorial spreads demonstrating grid-based layout and visual hierarchy."
+  },
+  {
+    "slug": "busan",
+    "name": "Busan, in print",
+    "category": "editorial",
+    "label": "Editorial · Coffee-table book",
+    "headline": "A city, explored one spread at a time.",
+    "description": "A photography-led coffee-table book about Busan’s culture, coastline, food, and everyday experiences.",
+    "cover": "busan",
+    "role": "Publication & layout design",
+    "scope": "Book cover, contents, image and text layouts",
+    "type": "Editorial project",
+    "sections": [
+      [
+        "The direction",
+        "Let the destination lead",
+        "The book presents Busan as a place to discover through its landscapes and culture. Large photographs and an airy title treatment establish the visual direction, with supporting text adding context.",
+        ""
+      ],
+      [
+        "Editorial system",
+        "A journey across the city",
+        "The spreads cover themes including festivals, beaches, temples, and food. The page system combines photography and short text blocks to build a varied but connected reading experience.",
+        "busan-spreads"
+      ]
+    ],
+    "outcome": "A coffee-table book design with a cover, contents, and thematic spreads that organize a city narrative through photography and typography."
+  },
+  {
+    "slug": "conflictorium",
+    "name": "Conflictorium",
+    "category": "experiential",
+    "label": "Environmental graphics · Installation",
+    "headline": "One installation. More than one perspective.",
+    "description": "An environmental-graphics concept that changes what viewers see as they move around it.",
+    "cover": "conflictorium",
+    "role": "Environmental graphics & illustration",
+    "scope": "Illustration, spatial concept, physical mockup",
+    "type": "Installation project",
+    "sections": [
+      [
+        "The context",
+        "Make room for different viewpoints",
+        "Created around Ahmedabad’s Conflictorium Museum, the installation explores diverse perspectives. It was designed for a Constitution Day exhibition at GMDC ground, with potential applications in museum corridors or on walls.",
+        "conflictorium-illustration"
+      ],
+      [
+        "The experience",
+        "Movement reveals another reading",
+        "From one viewpoint, the panels present an illustration of what Conflictorium represents. From another, words communicate its essence. The viewer’s movement becomes the interaction that connects these two expressions.",
+        "conflictorium-views"
+      ]
+    ],
+    "outcome": "An illustrated installation concept and physical mockup demonstrating how alternating viewpoints can change the message a visitor encounters."
+  },
+  {
+    "slug": "ar-wedding",
+    "name": "An invitation with AR",
+    "category": "experiential",
+    "label": "Augmented reality · Experience design",
+    "headline": "An invitation that opens into an experience.",
+    "description": "A printed wedding invitation connects guests to location, outfit guidance, occasion dates, and a gallery.",
+    "cover": "ar-wedding",
+    "role": "Interactive invitation design",
+    "scope": "Printed invitation, AR content, guest information",
+    "type": "AR project",
+    "sections": [
+      [
+        "The starting point",
+        "Begin with a familiar object",
+        "The invitation concept uses a smartphone or tablet scan to bring additional wedding information into an interactive experience. The printed card is the entry point into a broader set of guest touchpoints.",
+        ""
+      ],
+      [
+        "Guest touchpoints",
+        "Put the useful details together",
+        "The proposed experience brings together location information, outfit guidance, occasion dates, and a photo gallery. These features address the practical questions guests may have before and during the celebration.",
+        "ar-features"
+      ],
+      [
+        "Location",
+        "Help guests understand the place",
+        "The location feature proposes map access and a three-dimensional view to help guests become familiar with the venue. It connects the invitation to the practical task of planning a visit.",
+        "ar-location"
+      ]
+    ],
+    "outcome": "An AR invitation concept linking print to interactive guest information. The project illustrates the proposed features; the website presents the case study rather than running the original AR experience."
+  },
+  {
+    "slug": "typography",
+    "name": "Words with presence",
+    "category": "editorial",
+    "label": "Typography · Visual exploration",
+    "headline": "When the arrangement becomes the message.",
+    "description": "Typographic compositions exploring emphasis, contrast, and the visual rhythm of quotations.",
+    "cover": "typography",
+    "role": "Typography & composition",
+    "scope": "Hierarchy, scale, spacing, poster layouts",
+    "type": "Visual exploration",
+    "sections": [
+      [
+        "The exploration",
+        "Let hierarchy shape the reading",
+        "These compositions explore the relationship between words and their visual presentation. Changes in scale, position, and emphasis guide attention through each quotation.",
+        "typography"
+      ],
+      [
+        "Contrast & rhythm",
+        "A different voice for each composition",
+        "The second layout combines tightly arranged type with a contrasting final word. Each composition treats typography as the central visual material.",
+        "typography-alone"
+      ]
+    ],
+    "outcome": "A pair of typographic explorations focused on emphasis, clarity, and expressive composition."
+  },
+  {
+    "slug": "science",
+    "name": "SIGnature · Arizona Science Center",
+    "category": "ux",
+    "label": "UX research · Usability evaluation · Team project",
+    "headline": "Making a science-center visit easier to plan.",
+    "description": "A mixed-method UX evaluation translating visitor friction into clearer navigation, event discovery, and ticket-purchase flows.",
+    "cover": "science",
+    "role": "UX researcher · Team SIGnature",
+    "scope": "Heuristic evaluation · Survey · Moderated testing · UX recommendations",
+    "type": "GIT 542 · With Stephan Bui and Idil Kale",
+    "sections": [
+      [
+        "01 / The UX problem",
+        "Before the visit comes the website.",
+        "Visitors need to answer practical questions quickly: what can I explore, what is happening on my visit date, and which tickets do I need? Team SIGnature examined where the Arizona Science Center website made those decisions difficult and translated the findings into prioritized design proposals.",
+        ""
+      ],
+      [
+        "02 / Study design",
+        "Combining what people said with what they did.",
+        "Our team combined Nielsen’s 10 usability heuristics, a WAVE accessibility review, 27 survey responses, and 9 moderated usability sessions conducted across three team members. The sequence moved from initial evaluation to survey insights, personas, task-based testing, synthesis, and recommendations.",
+        "science-process"
+      ],
+      [
+        "03 / My contribution",
+        "Turning survey responses into research priorities.",
+        "My survey contribution included 15 respondents. Of these, 13 rated ticket purchasing as very important and 12 rated mobile compatibility as very important. Event discovery was less consistent: six found it easy, while six reported difficulty. These responses helped focus the evaluation on practical visitor tasks rather than visual preferences alone.",
+        ""
+      ],
+      [
+        "04 / Users & tasks",
+        "Three intentions shaped the evaluation.",
+        "The study used three task-oriented personas: Alex, the efficient planner buying tickets; Maya, the event explorer checking what is on; and Jordan, the curious learner browsing exhibits. The test materials included three scenarios with three tasks each, think-aloud observation, and pre- and post-test questionnaires. This connected navigation decisions to concrete visitor goals.",
+        ""
+      ],
+      [
+        "05 / Synthesis",
+        "The friction was in the journey, not one isolated page.",
+        "Across the evaluation, navigation labels and overlapping headers made orientation harder; the ticket journey lost context when it moved to an external system; event dates were difficult to surface; and text-heavy exhibit content was hard to scan. Affinity grouping and triangulation connected these observations to recurring problems and informed the recommendation priorities.",
+        ""
+      ],
+      [
+        "06 / Navigation & hierarchy",
+        "Give visitors a clear starting point.",
+        "The proposed homepage consolidates the header, uses clearer labels such as “Exhibits,” and gives Events a dedicated entry point. Hours, location, and Buy Tickets become easier to find. A consistent card grid and a better-positioned popup reduce competing demands on attention. Navigation and ticketing were treated as high-priority changes because they affect essential planning tasks.",
+        "science"
+      ],
+      [
+        "07 / Ticketing",
+        "Keep the purchase path visible from start to finish.",
+        "The proposed sequence is Date → Ticket Type → Add-ons → Review → Checkout. A persistent cart preserves context, while clearer grouping distinguishes required general admission from optional DOME or planetarium experiences. Earlier member sign-in helps visitors understand the relevant options before committing to a purchase.",
+        "science-tickets"
+      ],
+      [
+        "08 / Event discovery",
+        "Make “what’s on?” answerable at a glance.",
+        "The event direction places dates and times directly on cards and brings a “Today” entry point to the homepage. Filters by date, event type, and age help visitors narrow the list without opening every event. This proposal responds to the uneven event-discovery experience found in the survey and observed during evaluation.",
+        "science-events"
+      ],
+      [
+        "09 / Mobile & accessibility",
+        "Carry the same clarity onto a smaller screen.",
+        "The recommendations call for consistent behavior at a 375px mobile width, clearer visual hierarchy, and more scannable exhibit cards. Image compression and lazy loading support performance. The accessibility review informed the evaluation; these proposals would still need implementation checks and assistive-technology testing before claiming conformance.",
+        ""
+      ],
+      [
+        "10 / Reflection & next steps",
+        "The next question is whether the changes help.",
+        "This was a team research and recommendation project with Stephan Bui and Idil Kale, not a launched redesign. A follow-up study should include more parents, educators, and tourists; test the mobile prototypes; and capture consistent task completion, time on task, and perceived ease. Ticket and event flows would be the first priorities for validating the proposed changes.",
+        ""
+      ]
+    ],
+    "outcome": "Six prioritized recommendation areas connect research evidence to proposed design changes: ticketing, navigation, event discovery, homepage hierarchy, mobile usability, and exhibit browsing. The deliverable is an evidence-informed UX direction and prototype set; post-redesign improvements have not yet been measured."
+  },
+  {
+    "slug": "pra",
+    "name": "Pra wellness identity",
+    "category": "brand",
+    "label": "Logo design · Wellness branding",
+    "headline": "A visual identity for a moment of calm.",
+    "description": "A flowing wordmark and seven-color motif for a yoga and wellness center.",
+    "cover": "pra",
+    "role": "Logo & visual identity design",
+    "scope": "Concept exploration, wordmark, typography, brand applications",
+    "type": "Branding project",
+    "sections": [
+      [
+        "The brief",
+        "Create a sense of calm and personal growth",
+        "Pra is presented as a meditation and yoga wellness center, with an audience primarily aged 30–45. The identity explores an alternative to the conventional yoga-pose logo.",
+        ""
+      ],
+      [
+        "Exploration",
+        "Find the idea behind the mark",
+        "The sketches explored letterforms, movement, and circular motifs. The final direction combines a flowing wordmark with seven colored dots that reference chakra symbolism within the design concept.",
+        "pra-concepts"
+      ],
+      [
+        "Visual system",
+        "Flow, color, and a welcoming character",
+        "The wordmark uses customized Kalam lettering, paired with Gabriola for the tagline. Increasing dot sizes express growth and progress, while the colors communicate a sense of diversity and balance.",
+        "pra-logo"
+      ],
+      [
+        "Applications",
+        "Carry the identity into everyday touchpoints",
+        "The concept extends into a yoga-mat mockup and an event flyer, exploring how the mark works across a product surface and a promotional layout.",
+        "pra-flyer"
+      ]
+    ],
+    "outcome": "A wellness identity concept with logo explorations, typography choices, and brand-application mockups."
+  },
+  {
+    "slug": "lissitzky",
+    "name": "Form, Function & Revolution",
+    "category": "editorial",
+    "label": "Research-led editorial · Typography",
+    "headline": "Translating design history into a visual system.",
+    "description": "An editorial exploration of El Lissitzky, geometric abstraction, and contemporary visual communication.",
+    "cover": "lissitzky",
+    "role": "Editorial design",
+    "scope": "Research synthesis, grid, cover iterations, typography, spreads",
+    "type": "Publication project",
+    "sections": [
+      [
+        "The idea",
+        "Let the research shape the visual language",
+        "Form, Function, and Revolution examines El Lissitzky’s influence on visual communication. The publication responds to the geometric language and structural thinking of his work through a contemporary editorial system.",
+        ""
+      ],
+      [
+        "Iteration",
+        "Explore different ways into the story",
+        "Cover and spread iterations tested changes in scale, white space, image placement, and text structure. Critique feedback helped refine dense sections and improve the rhythm of the pages.",
+        "lissitzky-iterations"
+      ],
+      [
+        "Art direction",
+        "Balance expression with reading clarity",
+        "Red, black, and light neutral areas provide contrast, while geometric forms and distinctive typography connect the pages. The final direction moves between expressive spreads and quieter text-led layouts.",
+        "lissitzky-cover"
+      ],
+      [
+        "The publication",
+        "Build a consistent reading experience",
+        "Grid structure, typographic hierarchy, and recurring visual motifs organize the research into a cohesive sequence. Artworks are presented as part of the publication’s historical subject matter.",
+        "lissitzky-spread"
+      ]
+    ],
+    "outcome": "A research-informed editorial system and finished publication. The project strengthened grid design, typographic rhythm, and visual storytelling, with interactive adaptation identified as a possible next step."
+  },
+  {
+    "slug": "abpal-catalog",
+    "name": "ABPAL · Corporate & Product Catalog",
+    "category": "editorial",
+    "label": "Editorial design · B2B · Catalog",
+    "headline": "A broad product range, brought into one clear catalog.",
+    "description": "A 67-page corporate and product catalog connecting ABPAL’s company story, brands, product ranges, and service information.",
+    "cover": "abpal-catalog-cover",
+    "role": "Catalog designer",
+    "scope": "Editorial layout · Typography · Product information",
+    "type": "ABPAL · Corporate and product publication",
+    "sections": [
+      [
+        "The publication",
+        "Structure for a wide range of information.",
+        "The catalog moves from the company overview and brand directory into product categories, specifications, infrastructure, and service information. Section openings and a consistent hierarchy help readers move between the company story and detailed product content.",
+        ""
+      ],
+      [
+        "The design",
+        "Make technical information easy to scan.",
+        "Product photography, grouped specifications, contrasting headings, and repeating page structures bring consistency to a varied range. The selected pages below show the finished publication across corporate, product, and service content.",
+        ""
+      ]
+    ],
+    "outcome": "The finished publication brings ABPAL’s company overview, brand directory, product categories, specifications, and service information into one 67-page catalog. A consistent editorial hierarchy gives sales and product communication a shared reference. This is a delivered publication count, not a measured sales or conversion result.",
+    "outcome_heading": "67 pages. One consistent product reference.",
+    "thumbnail": "abpal-catalog-mockup.png"
+  }
+]

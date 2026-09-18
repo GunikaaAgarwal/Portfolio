@@ -1,0 +1,180 @@
+{
+  "khushi": [
+    [
+      "khushi-desktop",
+      "Finished website — desktop presentation"
+    ],
+    [
+      "khushi-homepage",
+      "Finished website — photography-led homepage"
+    ],
+    [
+      "khushi-about",
+      "Finished website — contact page"
+    ],
+    [
+      "khushi-profile",
+      "Finished website — designer profile"
+    ],
+    [
+      "khushi-gallery",
+      "Finished website — photography portfolio grid"
+    ],
+    [
+      "khushi-work",
+      "Finished website — selected work and portraits"
+    ]
+  ],
+  "conflictorium": [
+    [
+      "conflictorium-front",
+      "Physical prototype — front and angled panels"
+    ],
+    [
+      "conflictorium-reverse",
+      "Physical prototype — reverse view"
+    ],
+    [
+      "conflictorium-illustrated",
+      "Physical prototype — illustrated face"
+    ],
+    [
+      "conflictorium-perspective",
+      "Physical prototype — changing views as the viewer moves"
+    ]
+  ],
+  "tac": [
+    [
+      "tac-final-desktop",
+      "Website and brand presentation"
+    ],
+    [
+      "tac-final-cards",
+      "Finished business card application"
+    ],
+    [
+      "tac-final-bottle",
+      "Finished bottle packaging mockup"
+    ]
+  ],
+  "abpal": [
+    [
+      "abpal-final",
+      "Finished website — desktop presentation"
+    ]
+  ],
+  "packaging": [
+    [
+      "packaging-prototype-detail",
+      "Physical packaging prototype and structural dielines"
+    ]
+  ],
+  "eclectics": [
+    [
+      "eclectics-fashion",
+      "Finished magazine — fashion and editorial spreads"
+    ],
+    [
+      "eclectics-visual-stories",
+      "Finished magazine — advertising and image-led spreads"
+    ]
+  ],
+  "busan": [
+    [
+      "busan-cover-wrap",
+      "Finished book — full cover wrap"
+    ],
+    [
+      "busan-city-spreads",
+      "Finished book — city, culture, and food spreads"
+    ]
+  ],
+  "dunkin": [
+    [
+      "dunkin-order-summary",
+      "Interface outcome — order review"
+    ],
+    [
+      "dunkin-success",
+      "Interface outcome — payment confirmation"
+    ]
+  ],
+  "ar-wedding": [
+    [
+      "ar-outfits",
+      "Invitation experience — outfit guidance"
+    ],
+    [
+      "ar-dates",
+      "Invitation experience — occasion dates"
+    ],
+    [
+      "ar-gallery",
+      "Invitation experience — shared photo gallery"
+    ]
+  ],
+  "typography": [
+    [
+      "typography-imagination",
+      "Finished typographic composition — imagination"
+    ]
+  ],
+  "pra": [
+    [
+      "pra-identity-application",
+      "Finished identity — application mockup"
+    ]
+  ],
+  "lissitzky": [
+    [
+      "lissitzky-final-intro",
+      "Finished editorial — introduction spread"
+    ],
+    [
+      "lissitzky-final-exhibition",
+      "Finished editorial — exhibition design spread"
+    ],
+    [
+      "lissitzky-final-principles",
+      "Finished editorial — design principles spread"
+    ]
+  ],
+  "science": [
+    [
+      "science-prototype-overview",
+      "Proposed UX outcome — prototype overview from Team SIGnature"
+    ]
+  ],
+  "rajasthan": [
+    [
+      "rajasthan-envelope",
+      "Finished stationery — envelope application"
+    ]
+  ],
+  "abpal-catalog": [
+    [
+      "abpal-catalog-cover",
+      "Catalog cover — page 1"
+    ],
+    [
+      "abpal-catalog-contents",
+      "Contents and section navigation — page 3"
+    ],
+    [
+      "abpal-catalog-brands",
+      "Brand directory — page 9"
+    ],
+    [
+      "abpal-catalog-products",
+      "Product specifications and descriptions — page 21"
+    ],
+    [
+      "abpal-catalog-lighting",
+      "Lighting range and visual product hierarchy — page 31"
+    ],
+    [
+      "abpal-catalog-services",
+      "Service and order information — page 51"
+    ]
+  ]
+}
