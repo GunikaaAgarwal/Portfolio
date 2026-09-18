@@ -29,7 +29,7 @@ def render_nav():
  links=''.join(f'<a href="{esc(link["href"])}">{esc(link["label"])}</a>' for link in nav_cfg['links'])
  return (
   '<a class="skip-link" href="#main">Skip to content</a><header class="site-header">'
-  f'<a class="wordmark" href="index.html" aria-label="{esc(site["site"]["name"])} home">{esc(site["site"]["name"].lower())}<span class="brand-dot">.</span><small>DESIGNER</small></a>'
+  f'<a class="wordmark" href="index.html" aria-label="{esc(site["site"]["name"])} home">{esc(site["site"]["name"])}<span class="brand-dot">.</span><small>DESIGNER</small></a>'
   '<nav aria-label="Main navigation">'
   f'{links}'
     f'<a class="resume-nav" href="{esc(nav_cfg["resume_href"])}" target="_blank" rel="noopener">{esc(nav_cfg["resume_label"])}</a>'
@@ -55,7 +55,7 @@ about=render_about(site['about'])
 def entries(items):
  return '<ol class="timeline">'+''.join('<li><h4>'+esc(title)+'</h4><p>'+esc(organization)+'</p><p class="entry-date">'+esc(date)+'</p>'+('<p class="entry-detail">'+esc(detail)+'</p>' if detail else '')+'</li>' for title,organization,date,detail in items)+'</ol>'
 contact_cfg=site['contact']
-contact='''<section class="contact-section" id="contact"><p class="eyebrow">'''+esc(contact_cfg['eyebrow'])+'''</p><h2>'''+esc(contact_cfg['heading'])+'''<span>?</span></h2><div class="contact-bottom"><div><p>'''+esc(contact_cfg['intro'])+'''</p><a class="email-link" href="mailto:'''+esc(contact_cfg['email'])+'''">'''+esc(contact_cfg['email'])+'''</a></div><div class="contact-actions"><button class="copy-email" data-email="'''+esc(contact_cfg['email'])+'''">'''+esc(contact_cfg['copy_label'])+'''</button><a href="'''+esc(contact_cfg['linkedin'])+'''" target="_blank" rel="noopener noreferrer">'''+esc(contact_cfg['link_label'])+'''</a></div></div><p class="copy-status" role="status" aria-live="polite"></p></section>'''
+contact='''<section class="contact-section" id="contact"><p class="eyebrow">'''+esc(contact_cfg['eyebrow'])+'''</p><h2>'''+esc(contact_cfg['heading'])+'''</h2><div class="contact-bottom"><div><p>'''+esc(contact_cfg['intro'])+'''</p><a class="email-link" href="mailto:'''+esc(contact_cfg['email'])+'''">'''+esc(contact_cfg['email'])+'''</a></div><div class="contact-actions"><button class="copy-email" data-email="'''+esc(contact_cfg['email'])+'''">'''+esc(contact_cfg['copy_label'])+'''</button><a href="'''+esc(contact_cfg['linkedin'])+'''" target="_blank" rel="noopener noreferrer">'''+esc(contact_cfg['link_label'])+'''</a></div></div><p class="copy-status" role="status" aria-live="polite"></p></section>'''
 resume_cfg=site['resume']
 resume='<section id="experience" class="resume-section"><div class="section-heading"><div><p class="eyebrow">'+esc(resume_cfg['eyebrow'])+'</p><h2>'+join_lines(resume_cfg['heading_lines'])+'</h2></div><a class="text-link" href="'+esc(nav_cfg['resume_href'])+'" target="_blank" rel="noopener">'+esc(resume_cfg['link_label'])+'</a></div><div class="resume-columns"><div class="resume-column reveal"><h3 class="group-label">Experience</h3>'+entries(profile['experience'])+'</div><div class="resume-column reveal"><h3 class="group-label">Education</h3>'+entries(profile['education'])+'<h3 class="group-label certifications-label">Certifications</h3><ol class="timeline">'+''.join('<li><h4>'+esc(a)+'</h4><p>'+esc(b)+'</p></li>' for a,b in profile['certifications'])+'</ol></div></div></section>'
 if not profile['certifications']:

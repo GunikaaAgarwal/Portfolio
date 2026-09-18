@@ -119,7 +119,7 @@ This file is the editable source of truth for the written copy on the portfolio.
       "I’m curious about how products work—and why some take five clicks when one should do. That curiosity shapes my <strong>user-centered approach</strong> and the design systems I build.",
       "Beyond design, you’ll find me exploring <strong>museums and historical places</strong> or watching a good movie. Even my downtime involves stories."
     ],
-    "availability": "Open to <strong>full-time opportunities starting June 2027</strong>. Let’s create something thoughtful together!"
+    "availability": "Open to <strong>full-time opportunities </strong>. Let’s create something thoughtful together!"
   },
   "profile": {
     "experience": [
